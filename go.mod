@@ -1,21 +1,13 @@
-<<<<<<< HEAD
-module Gin001
+module Gin002
 
 go 1.20
 
 require github.com/gin-gonic/gin v1.9.0
 
-=======
-module github.com/Tahsin-Ahmed52225/Go-Gin-Learning
-
-go 1.20
-
->>>>>>> a4b4572122a8dbab25fd86c25334084b083c20cd
 require (
 	github.com/bytedance/sonic v1.8.0 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
-<<<<<<< HEAD
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-playground/validator/v10 v10.11.2 // indirect
@@ -23,13 +15,6 @@ require (
 	github.com/goccy/go-json v0.10.0 // indirect
 	github.com/jinzhu/gorm v1.9.16 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
-=======
-	github.com/gin-gonic/gin v1.9.0 // indirect
-	github.com/go-playground/locales v0.14.1 // indirect
-	github.com/go-playground/universal-translator v0.18.1 // indirect
-	github.com/go-playground/validator/v10 v10.11.2 // indirect
-	github.com/goccy/go-json v0.10.0 // indirect
->>>>>>> a4b4572122a8dbab25fd86c25334084b083c20cd
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.9 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
